@@ -17,4 +17,13 @@ authors:
     email: leonid.pryadko@ucr.edu
     affiliation: 'UC, Riverside'
     orcid: 'https://orcid.org/0000-0002-4990-0259'
+repository-code: "https://github.com/QEC-pages/GB-codes"
+keywords:
+  - QECC
+  - "quantum code"
+  - "stabilizer code"
+  - "quantum error correcting code"
+  - "minimal distance"
+  - "generalized bicycle code"
+  - "GB code"
 license: GPL-2.0-or-later
